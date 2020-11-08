@@ -1,7 +1,15 @@
 # Dylan's Resume Guide
 *Forewarning, this guide is meant to help you get into large companies, and as such this guide is designed for those companies - this means that some things may or may not apply to smaller shops. This does not mean you can't use this guide for these companies as well (I personally did), it just means that the advice may or may not matter for specific companies.*
 
-Why should I listen to this guide? I found my own internships coming from a non target small Ontario university including FAANG companies. I have spoke with many recruiters personally, and attended events like Passport to Google. Hopefully you can read this guide and skip the countless hours I've wasted on /r/cscq and /r/csmajors and just skip to having a good quality resume.
+## FAQ
+
+#### Why should you listen to this guide? 
+
+I found my own internships coming from a small, almost non heard of Ontario university. Recently, including a FAANG company, but previously I had offers and have worked for many other large companies such as RBC/OPG/OMERS.
+
+#### Okay, but you're not a recruiter, you're just an intern, what do you know about resumes?
+
+I have spoke with many recruiters personally, have had my resume reviewed many times, and attended events like Passport to Google. I've wasted countless hours on /r/cscq and /r/csmajors (for better or worse), and have read many many articles and discussed these topics with other people who have gone on to work at top companies. Hopefully you can read this guide and skip the countless hours I spent and use your time on applying (which is the most important thing, please apply a lot and frequently, and early).
 
 I'm going to try to keep this as succinct as possible:
 
