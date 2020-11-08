@@ -43,7 +43,7 @@ EXAMPLE BULLET POINTS:
 - Engineered internal transcription middleware connected to Five9 API using NodeJS and GCP to transcribe 10,000s of company voicemails resulting in 1000's of employee hours saved monthly.
 
 ## 3) Project Content
-This can be anything, if you have no projects that you've done on your own time, include your school projects for example, if you've done no school projects, you're not ready to be applying! I'm talking about anything, even an assignment from your first data structure class or something. Treat it as if it were a job, how would you talk about it? 
+This can be anything, if you have no projects that you've done on your own time, include your school projects for example, if you've done no school projects, you're not ready to be applying! I'm talking about anything, even an assignment from your first data structure class or something. These projects do NOT need to be completed 100% working projects, they just need to be something you can talk about with an interviewer. Treat it as if it were a job, how would you write about it? 
 EXAMPLE:
 - Wrote application using Java that created and could traverse binary search tree using Preorder, Postorder and Inorder traversals
 - Designed and deployed personal website to showcase portfolio using React and Github pages.
