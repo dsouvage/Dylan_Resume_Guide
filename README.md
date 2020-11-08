@@ -11,9 +11,11 @@ I found my own internships coming from a small, almost non heard of Ontario univ
 
 I have spoke with many recruiters personally, have had my resume reviewed many times, and attended events like Passport to Google. I've wasted countless hours on /r/cscq and /r/csmajors (for better or worse), and have read many many articles and discussed these topics with other people who have gone on to work at top companies. Hopefully you can read this guide and skip the countless hours I spent and use your time on applying (which is the most important thing, please apply a lot and frequently, and early).
 
+## Resume Guide
+
 I'm going to try to keep this as succinct as possible:
 
-## 1) Recommended Templates/Formats
+#### 1) Recommended Templates/Formats
 
 https://www.rezi.io/
 
@@ -31,7 +33,7 @@ One column resumes are the best, 90% of the time, for big companies.
 
 Use .docx or .pdf format only.
 
-## 2) Employment Content/Bullet points
+#### 2) Employment Content/Bullet points
 
 Everything should be more or less STAR format if possible (might be harder for projects or for education, but pretty much mandatory for employment):
 https://en.wikipedia.org/wiki/Situation,_task,_action,_result
@@ -50,12 +52,12 @@ EXAMPLE BULLET POINTS:
 
 - Engineered internal transcription middleware connected to Five9 API using NodeJS and GCP to transcribe 10,000s of company voicemails resulting in 1000's of employee hours saved monthly.
 
-## 3) Project Content
+#### 3) Project Content
 This can be anything, if you have no projects that you've done on your own time, include your school projects for example, if you've done no school projects, you're not ready to be applying! I'm talking about anything, even an assignment from your first data structure class or something. These projects do NOT need to be completed 100% working projects, they just need to be something you can talk about with an interviewer. Treat it as if it were a job, how would you write about it? 
 EXAMPLE:
 - Wrote application using Java that created and could traverse binary search tree using Preorder, Postorder and Inorder traversals
 - Designed and deployed personal website to showcase portfolio using React and Github pages.
 
-## 4) Skills
+#### 4) Skills
 
 Literally anything you've ever used and are aware of, stuff you could talk about if required, just be honest up front with your interviewer if they ask you about something that you aren't an expert with on your resume.
