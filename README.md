@@ -11,6 +11,10 @@ I found my own internships coming from a small, almost non heard of Ontario univ
 
 I have spoke with many recruiters personally, have had my resume reviewed many times, and attended events like Passport to Google. I've wasted countless hours on /r/cscq and /r/csmajors (for better or worse), and have read many many articles and discussed these topics with other people who have gone on to work at top companies. Hopefully you can read this guide and skip the countless hours I spent and use your time on applying (which is the most important thing, please apply a lot and frequently, and early).
 
+#### What does your resume look like?
+
+https://www.cosc.brocku.ca/~ds16bz/resume/Dylan_Souvage_Resume.pdf
+
 ## Resume Guide
 
 I'm going to try to keep this as succinct as possible:
