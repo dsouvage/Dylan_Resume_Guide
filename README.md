@@ -29,7 +29,7 @@ https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs
 
 Avoid formats that too dense or too flamboyant, recruiters are sifting through thousands of applications per day, it's best to just keep it standard *(Note, this might not apply to UI/UX or Specific Front End roles)*.
 
-As a student, you want your education at the top(this can include coursework), followed by internships if you have them, followed by projects then anything else you might want to add, ex) volunteering, awards, skills.
+As a student, you want your education at the top(this can include coursework), followed by internships or relevant experience if you have them, followed by projects then anything else you might want to add, ex) volunteering, awards, skills.
 
 If you don't have any internships yet, follow the same formula but put experience below projects and skills and put less priority into it.
 
