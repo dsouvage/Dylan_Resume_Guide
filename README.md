@@ -65,3 +65,23 @@ EXAMPLE:
 #### 4) Skills
 
 Literally anything you've ever used and are aware of, stuff you could talk about if required, just be honest up front with your interviewer if they ask you about something that you aren't an expert with on your resume.
+
+
+
+
+
+#### Useful Links
+
+CSCareerQuestions Reddit: https://www.reddit.com/r/cscareerquestions/
+
+CSMajors Reddit: https://www.reddit.com/r/csmajors/
+
+ITCareerQuestions Reddit: https://www.reddit.com/r/ITCareerQuestions/
+
+CSMajors Discord: https://discord.gg/Zukpvz9E47
+
+CSCareerQuestions Discord: https://discord.gg/vq9VjeBWy9
+
+CSCareers Dev Discord: https://discord.gg/CFuGHcmGCk
+
+UWaterloo Discord: https://discord.gg/sAzqcCqS5W
