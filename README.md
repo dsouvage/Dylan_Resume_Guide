@@ -5,7 +5,7 @@
 
 #### Why should you listen to this guide? 
 
-I found my own internships coming from a small, almost non heard of Ontario university. Recently, including a FAANG company, but previously I had offers and have worked for many other large companies such as RBC/OPG/OMERS/IBM.
+I found my own internships coming from a small, almost non heard of Ontario university. Recently, including Amazon company, but previously I had offers and have worked for many other large companies such as RBC/OPG/OMERS/IBM.
 
 #### Okay, but you're not a recruiter, you're just an intern, what do you know about resumes?
 
