@@ -3,6 +3,13 @@
 
 ## FAQ
 
+#### Want to skip my guide and use someone elses?
+
+Check out this guide here:
+
+https://www.careercup.com/resume
+
+
 #### Why should you listen to this guide? 
 
 I found my own internships coming from a small, almost non heard of Ontario university. Recently, including Amazon company, but previously I had offers and have worked for many other large companies such as RBC/OPG/OMERS/IBM.
