@@ -86,10 +86,11 @@ What You Should Be Doing on LinkedIn Every Month, Week, and Day:
 
 https://www.themuse.com/advice/what-you-should-be-doing-on-linkedin-every-month-week-and-day
 
-
 4 Elements of a Killer LinkedIn Summary:
 
 https://www.themuse.com/advice/4-key-elements-of-a-killer-linkedin-summary
+
+As some general info, add lots of skills to your profile, try to get endorsed or recommended, get skill verifications, be detailed in your work experience, show results, and add anyone - there is no downside to too many connections. If that makes you feel uncomfortable, free to include notes if you want when you connect.
 
 #### Useful Links
 
