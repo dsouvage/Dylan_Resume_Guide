@@ -74,7 +74,7 @@ EXAMPLE:
 Literally anything you've ever used and are aware of, stuff you could talk about if required, just be honest up front with your interviewer if they ask you about something that you aren't an expert with on your resume.
 
 
-#### 5) LinkedIn
+# LinkedIn Guide
 
 I am not as qualified to speak on LinkedIn as I believe all my success came from mass applying with a quality resume. However, these are some useful links and resources for anyone looking to upgrade their LinkedIn.
 
