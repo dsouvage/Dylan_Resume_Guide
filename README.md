@@ -74,8 +74,22 @@ EXAMPLE:
 Literally anything you've ever used and are aware of, stuff you could talk about if required, just be honest up front with your interviewer if they ask you about something that you aren't an expert with on your resume.
 
 
+#### 5) LinkedIn
+
+I am not as qualified to speak on LinkedIn as I believe all my success came from mass applying with a quality resume. However, these are some useful links and resources for anyone looking to upgrade their LinkedIn.
+
+Crowdsourced Photo Review for LinkedIn (Recruiters spend 20% of the time looking at your profile picture, first impressions matter, etc):
+
+https://www.photofeeler.com/my-tests
+
+What You Should Be Doing on LinkedIn Every Month, Week, and Day:
+
+https://www.themuse.com/advice/what-you-should-be-doing-on-linkedin-every-month-week-and-day
 
 
+4 Elements of a Killer LinkedIn Summary:
+
+https://www.themuse.com/advice/4-key-elements-of-a-killer-linkedin-summary
 
 #### Useful Links
 
