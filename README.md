@@ -1,5 +1,15 @@
+
 # Dylan's Resume Guide
 *Forewarning, this guide is meant to help you get into large companies, and as such this guide is designed for those companies - this means that some things may or may not apply to smaller shops. This does not mean you can't use this guide for these companies as well (I personally did), it just means that the advice may or may not matter for specific companies.*
+
+## Contents
+ - [FAQ](#faq) 
+ - [Resume Guide](#guide)
+ -- [Recommended Templates/Formats](#format)
+ -- [Employment Content/Bullet points](#content)
+ -- [Projects](#projects)
+ -- [Skills](#skills)
+ - [LinkedIn Guide](#LinkedIn)
 
 ## FAQ
 
@@ -22,11 +32,11 @@ I have spoke with many recruiters personally, have had my resume reviewed many t
 
 https://www.cosc.brocku.ca/~ds16bz/resume/Dylan_Souvage_Resume.pdf
 
-## Resume Guide
+## Guide
 
 I'm going to try to keep this as succinct as possible:
 
-#### 1) Recommended Templates/Formats
+#### 1) Format
 
 https://www.rezi.io/
 
@@ -44,7 +54,7 @@ One column resumes are the best, 90% of the time, for big companies.
 
 Use .docx or .pdf format only.
 
-#### 2) Employment Content/Bullet points
+#### 2) Content
 
 Everything should be more or less STAR format if possible (might be harder for projects or for education, but pretty much mandatory for employment):
 https://en.wikipedia.org/wiki/Situation,_task,_action,_result
@@ -63,7 +73,7 @@ EXAMPLE BULLET POINTS:
 
 - Engineered internal transcription middleware connected to Five9 API using NodeJS and GCP to transcribe 10,000s of company voicemails resulting in 1000's of employee hours saved monthly.
 
-#### 3) Project Content
+#### 3) Projects
 This can be anything, if you have no projects that you've done on your own time, include your school projects for example, if you've done no school projects, you're not ready to be applying! I'm talking about anything, even an assignment from your first data structure class or something. These projects do NOT need to be completed 100% working projects, they just need to be something you can talk about with an interviewer. Treat it as if it were a job, how would you write about it? 
 EXAMPLE:
 - Wrote application using Java that created and could traverse binary search tree using Preorder, Postorder and Inorder traversals
@@ -74,7 +84,7 @@ EXAMPLE:
 Literally anything you've ever used and are aware of, stuff you could talk about if required, just be honest up front with your interviewer if they ask you about something that you aren't an expert with on your resume.
 
 
-# LinkedIn Guide
+# LinkedIn
 
 I am not as qualified to speak on LinkedIn as I believe all my success came from mass applying with a quality resume. However, these are some useful links and resources for anyone looking to upgrade their LinkedIn.
 
