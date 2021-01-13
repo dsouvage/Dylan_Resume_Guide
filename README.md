@@ -6,14 +6,10 @@
  - [FAQ](#faq) 
  
  - [Resume Guide](#guide)
- 
- -- [Recommended Templates/Formats](#format)
- 
- -- [Employment Content/Bullet points](#content)
- 
- -- [Projects](#projects)
- 
- -- [Skills](#skills)
+   - [Recommended Templates/Formats](#format)
+   - [Employment Content/Bullet points](#content)
+   - [Projects](#projects)
+   - [Skills](#skills)
  
  - [LinkedIn Guide](#LinkedIn)
  
