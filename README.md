@@ -25,7 +25,7 @@ https://www.careercup.com/resume
 
 #### Why should you listen to this guide? 
 
-I found my own internships coming from a small, almost non heard of Ontario university. Recently, including Amazon company, but previously I had offers and have worked for many other large companies such as RBC/OPG/OMERS/IBM.
+I found my own internships coming from a small, almost non heard of Ontario university. Recently, interviews (realistically, this is what this guide can and will help you get) and offers including Amazon and Microsoft, but previously I had offers and interviews for many other large companies such as RBC/OPG/OMERS/IBM.
 
 #### Okay, but you're not a recruiter, you're just an intern, what do you know about resumes?
 
