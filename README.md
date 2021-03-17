@@ -22,6 +22,10 @@ Check out this guide here:
 
 https://www.careercup.com/resume
 
+Check out these succesful people's resumes here:
+
+https://www.careeers.org/resumes
+
 
 #### Why should you listen to this guide? 
 
