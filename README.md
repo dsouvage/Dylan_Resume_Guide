@@ -14,6 +14,10 @@
  - [LinkedIn Guide](#LinkedIn)
  
 
+<p align="center">
+    <img alt="Site logo" src="./interview screenshot.png" width="500" />
+</p>
+
 ## FAQ
 
 #### Want to skip my guide and use someone elses?
