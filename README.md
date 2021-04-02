@@ -2,6 +2,12 @@
 # Dylan's Resume Guide
 *Forewarning, this guide is meant to help you get into large companies, and as such this guide is designed for those companies - this means that some things may or may not apply to smaller shops. This does not mean you can't use this guide for these companies as well (I personally did), it just means that the advice may or may not matter for specific companies.*
 
+<p align="center">
+    <img alt="Site logo" src="./interview screenshot.png" width="500" />
+    <img alt="Site logo" src="./transformation.png" width="500" />
+</p>
+
+
 ## Contents
  - [FAQ](#faq) 
  
@@ -13,11 +19,6 @@
  
  - [LinkedIn Guide](#LinkedIn)
  
-
-<p align="center">
-    <img alt="Site logo" src="./interview screenshot.png" width="500" />
-    <img alt="Site logo" src="./transformation.png" width="500" />
-</p>
 
 ## FAQ
 
