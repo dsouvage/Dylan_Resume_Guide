@@ -16,6 +16,7 @@
 
 <p align="center">
     <img alt="Site logo" src="./interview screenshot.png" width="500" />
+    <img alt="Site logo" src="./transformation.png" width="500" />
 </p>
 
 ## FAQ
