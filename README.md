@@ -37,6 +37,8 @@ I have spoke with many recruiters personally, have had my resume reviewed many t
 
 #### What does your resume look like?
 
+Note: probably not up to date
+
 https://www.cosc.brocku.ca/~ds16bz/resume/Dylan_Souvage_Resume.pdf
 
 ## Guide
