@@ -101,7 +101,7 @@ EXAMPLE:
 
 Literally anything you've ever used and are aware of, stuff you could talk about if required, just be honest up front with your interviewer if they ask you about something that you aren't an expert with on your resume.
 
-# Cover Letters
+# Cover
 
 tl;dr if you're spam applying, I wouldn't bother, but for any job that you really want, I would write one. Consider making 3 different ones with "fill in the blank attributes.
 
