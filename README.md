@@ -17,7 +17,7 @@
    - [Projects](#projects)
    - [Skills](#skills)
 
- - [Cover Letters](#cover)
+ - [Cover Letters](#cover_letters)
 
  - [LinkedIn Guide](#LinkedIn)
 
