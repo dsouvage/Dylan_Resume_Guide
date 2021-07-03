@@ -39,6 +39,10 @@ Best time to apply?
 
 https://www.huffpost.com/entry/best-time-of-day-submit-job-application_l_60ae67d6e4b0d45b7531668c?utm_campaign=PostBeyond&utm_source=LinkedIn&utm_medium=Social&utm_term=%23159997
 
+Consider checking out this useful tool
+
+https://resumeworded.com/
+
 
 #### Why should you listen to this guide? 
 
