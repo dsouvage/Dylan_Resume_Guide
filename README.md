@@ -35,6 +35,10 @@ Check out these succesful people's resumes here:
 
 https://www.careeers.org/resumes
 
+Check out this cool post breaking down a succesful resume
+
+https://www.linkedin.com/posts/jonathan-wonsulting_resume-jobsearch-jwow-activity-6848632858454695936-CFjV
+
 Best time to apply?
 
 https://www.huffpost.com/entry/best-time-of-day-submit-job-application_l_60ae67d6e4b0d45b7531668c?utm_campaign=PostBeyond&utm_source=LinkedIn&utm_medium=Social&utm_term=%23159997
