@@ -47,6 +47,8 @@ Consider checking out this useful tool
 
 https://resumeworded.com/
 
+https://withresumeai.com/ — AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (738 employers; Workday 37.9%)
+
 
 #### Why should you listen to this guide? 
 
