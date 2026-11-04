@@ -2,6 +2,8 @@
 
 > A practical guide for getting interviews at large tech companies. Some advice is big-company specific — it may or may not apply to smaller shops, but the fundamentals transfer anywhere.
 
+This guide was originally written before AI coding assistants existed — based on real recruiter conversations, interview outcomes, and a lot of time on `/r/cscareerquestions`. It has since been updated for the AI era. The advice itself hasn't changed (good resume fundamentals don't), but it now includes a **Resumizer skill** that any AI tool can use — Claude, Kiro, ChatGPT, Gemini, Cursor, Copilot, or anything else that supports custom instructions or skills. Drop the skill file in and your AI assistant will follow the same rules this guide does.
+
 <p align="center">
   <img alt="Before and after resume transformation" src="./transformation.png" width="500" />
 </p>
@@ -33,18 +35,20 @@ The most important thing is to apply — a lot, early, and consistently. This gu
 
 ---
 
-## Resumizer — AI skill for Kiro
+## Resumizer — AI skill
 
-This repo ships a **Resumizer** skill for [Kiro](https://kiro.dev), an AI coding and productivity tool. The skill turns weak or AI-generated resume content into tight, metric-driven bullets that pass ATS screening and hold a recruiter's attention.
+This repo ships a **Resumizer** skill that teaches any AI assistant how to rewrite resume content correctly — strong action verbs, quantified results, ATS-safe formatting, no invented metrics. The skill file is a plain markdown document with the rules baked in. Paste it into whatever AI tool you use and it will follow this guide's standards.
 
-**Install it in one step:**
+**Supported tools:**
 
-Copy `resumizer.md` from this repo into your Kiro skills folder:
-
-```
-~/.kiro/skills/resumizer.md        # user-level (available in all workspaces)
-.kiro/skills/resumizer.md          # workspace-level (scoped to one project)
-```
+| Tool | How to use it |
+|------|---------------|
+| [Kiro](https://kiro.dev) | Copy `resumizer.md` to `~/.kiro/skills/` (user-level) or `.kiro/skills/` (workspace) |
+| [Claude](https://claude.ai) / [Claude Code](https://claude.ai/code) | Paste the contents of `resumizer.md` into your system prompt or Project Instructions |
+| [ChatGPT](https://chatgpt.com) | Add to a Custom GPT's instructions, or paste into a new conversation |
+| [Gemini](https://gemini.google.com) | Paste into a Gem's instructions or at the start of a conversation |
+| [Cursor](https://cursor.sh) / [Copilot](https://github.com/features/copilot) | Add to your `.cursorrules` file or Copilot instructions |
+| Any other tool | Paste `resumizer.md` as a system prompt or context file |
 
 **What it does:**
 
