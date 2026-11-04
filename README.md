@@ -17,6 +17,7 @@
   - [2. Content and bullet points](#2-content-and-bullet-points)
   - [3. Projects](#3-projects)
   - [4. Skills](#4-skills)
+  - [Quick reference card](#quick-reference-card)
 - [Cover Letters](#cover-letters)
 - [LinkedIn](#linkedin)
 - [Useful Links](#useful-links)
@@ -47,11 +48,11 @@ Copy `resumizer.md` from this repo into your Kiro skills folder:
 
 **What it does:**
 
-- Rewrites vague bullets ("Responsible for…", "Helped with…") into strong STAR-format bullets with action verbs and outcomes
+- Rewrites vague bullets ("Responsible for…", "Helped with…") into strong PAR/CAR-format bullets with action verbs and quantified results
 - Flags AI-inflated language ("innovative," "transformative," "passionate about") and removes it
-- Enforces ATS best practices: one-column layout, standard section names, .pdf/.docx format
+- Enforces ATS best practices: single-column layout, standard section names, .pdf/.docx, no personal pronouns
 - Asks for missing metrics before rewriting — it will never invent a number
-- Handles bullet mode, section mode, full resume mode, and review/audit mode
+- Handles bullet mode, section mode, full resume mode, review/audit mode, and tailor-to-job mode
 
 **Example:**
 
@@ -70,7 +71,7 @@ See `resumizer.md` for the full skill spec and all modes.
 
 ### 1. Format
 
-Keep it clean and standard. Recruiters process thousands of applications — a dense or flashy layout works against you. Exceptions exist for UI/UX and visual front-end roles.
+Keep it clean and standard. Recruiters process thousands of applications — a dense or flashy layout works against you. This is backed by career centers at Harvard, MIT, Stanford, CMU, Yale, and Princeton, all of which give the same core layout rules. Exceptions exist for UI/UX and visual front-end roles.
 
 **Recommended templates:**
 - [Jake's Resume (LaTeX)](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) — widely used, clean, ATS-safe
@@ -78,31 +79,39 @@ Keep it clean and standard. Recruiters process thousands of applications — a d
 - [Rezi.io](https://www.rezi.io/) — online builder with ATS optimization
 
 **Rules:**
-- One column, 90% of the time, for companies with 100+ employees
+- Single column — no tables, columns, text boxes, or graphics; these break ATS parsers
 - Submit as `.pdf` or `.docx` only — never `.pages`, `.txt`, or a Google Docs link
+- Standard fonts: Calibri, Arial, Times New Roman, Cambria — 10–12pt, margins 0.5"–1"
+- Dates flush right on the same line as the role — never lead a line with a date
+- Consistent formatting throughout: same font, same spacing, same bullet style
 - Students and recent grads: **Education → Experience → Projects → Skills**
 - No internships yet: **Education → Projects → Skills → Experience**
-- One page if you have fewer than 10 years of experience; two pages only if the second page is full
+- One page for students and anyone with fewer than 10 years of experience; two pages only if the second page is genuinely full
 
 ### 2. Content and bullet points
 
-Every experience bullet should follow **STAR format** — Situation, Task, Action, Result — with a data-driven result wherever possible.
+Every experience bullet should follow **PAR format** (Project → Action → Result) — the same structure that MIT, Stanford (CAR), and Yale (XYZ) all recommend. Lead with the verb, describe the work, end with a quantified result.
 
-**Structure:** `Action verb → what you did → result → metric`
+**Structure:** `Action verb → what you did → quantified result`
+
+**Three types of quantification to aim for:**
+- Financial impact: dollar value, revenue, cost savings
+- Efficiency: percentage improvement, time saved, error rate reduced
+- Scale: team size, users, data volume, number of locations
 
 **Resources:**
-- [STAR format explained](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
-- [Google's data-driven hiring process](https://www.washingtonpost.com/business/capitalbusiness/an-inside-look-at-googles-data-driven-job-interview-process/2013/09/03/648ea8b2-14bd-11e3-880b-7503237cc69d_story.html)
+- [STAR/PAR format](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+- [Google's data-driven hiring](https://www.washingtonpost.com/business/capitalbusiness/an-inside-look-at-googles-data-driven-job-interview-process/2013/09/03/648ea8b2-14bd-11e3-880b-7503237cc69d_story.html)
 - [185 resume action verbs](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
 
 **Rules:**
-- Start every bullet with a strong, unique action verb — don't repeat verbs within the same role
-- Never start with "Responsible for," "Helped," "Worked on," or "Participated in"
+- Start every bullet with a strong, unique action verb — never "Responsible for," "Helped," "Worked on," or "Participated in"
+- No personal pronouns — bullets are fragments ("Managed a team of 8" not "I managed a team of 8")
+- No abbreviations — spell everything out for ATS clarity
+- 3–5 bullets per role; one to two lines each; more bullets on the most recent/relevant role
 - Include a metric, scope, or concrete outcome on every bullet
-- 3–5 bullets per role; each bullet is one to two lines max
 
 **Examples:**
-
 ```
 Used X technology to solve Y problem resulting in Z achievement.
 
@@ -111,11 +120,13 @@ and GCP to transcribe 10,000s of company voicemails, saving 1,000s of employee
 hours monthly.
 ```
 
+**Tailor to every job.** This is the single most repeated piece of advice across every university career center — Harvard, MIT, Stanford, CMU, Yale, Princeton, Berkeley. Reorder sections, adjust bullets, and mirror the exact keywords from the job description. Never submit the same resume to every application.
+
 ### 3. Projects
 
 Include anything you can talk about in an interview. School projects count. Side projects count. Nothing needs to be 100% complete — it just needs to be real work you can explain.
 
-Treat each project like a job entry: verb → what → result/scope.
+Treat each project like a job entry: verb → what → result/scope. Link to a GitHub repo or demo if you have one.
 
 **Examples:**
 ```
@@ -127,9 +138,26 @@ Designed and deployed a personal portfolio site using React and GitHub Pages.
 
 ### 4. Skills
 
-List anything you could speak to if an interviewer asked about it. Be honest about your depth — it's fine to note in person that something is introductory. A broad, honest list is better than a short curated one.
+List anything you could speak to if an interviewer asked about it. Be honest about your depth — it's fine to note in person that something is introductory. A broad, honest list beats a short curated one.
 
 Group by category for long lists: Languages, Frameworks, Tools, Platforms.
+
+Do not list generic software — "Microsoft Office," "Google Docs," "communication skills" add no signal. List specific tools: Python, SQL, Tableau, AWS, Figma, etc.
+
+### Quick reference card
+
+```
+FORMAT:    Single column · 10-12pt · 0.5-1" margins · standard fonts · dates flush right
+LENGTH:    1 page (students, <10 yrs) · 2 pages only if genuinely full
+SECTIONS:  Contact > Education > Experience > Projects > Skills  [reorder per role]
+BULLETS:   Action verb + context + quantified result · 1-2 lines · no pronouns · past tense
+AVOID:     Objective statement · "References upon request" · photos · high school (if you have a degree)
+           Passive verbs · generic skills (MS Office) · personal pronouns · abbreviations
+           Columns/graphics/tables (break ATS)
+QUANTIFY:  Financial impact · efficiency/percentage · scale (users, team size, data volume)
+ATS:       Mirror job description keywords exactly · standard section headings · text-based PDF
+TAILOR:    New version per application · reorder sections · adjust bullets to match job description
+```
 
 ---
 
@@ -178,6 +206,15 @@ My own success came mostly from mass applying, not LinkedIn, so take this with a
 - [Breaking down a successful resume (LinkedIn post)](https://www.linkedin.com/posts/jonathan-wonsulting_resume-jobsearch-jwow-activity-6848632858454695936-CFjV)
 - [Best time of day to submit applications](https://www.huffpost.com/entry/best-time-of-day-submit-job-application_l_60ae67d6e4b0d45b7531668c)
 
+**University career guides (the sources behind this guide):**
+- [Harvard Career Services](https://careerservices.fas.harvard.edu/resources/create-a-resume-or-cv/)
+- [MIT CAPD Resume Guide](https://capd.mit.edu/resources/resumes-cvs-cover-letters-and-linkedin/)
+- [Stanford CareerEd](https://undergrad.stanford.edu/advising/cardinal-advising/career/resume)
+- [CMU Career Center](https://www.cmu.edu/career/students-and-alumni/resume-resources/index.html)
+- [Yale OCS](https://ocs.yale.edu/channels/resumes-cvs/)
+- [Princeton Career Development](https://careerdevelopment.princeton.edu/guides/resume-cv)
+- [Berkeley Career Center](https://career.berkeley.edu/develop-your-resume)
+
 ---
 
 ## FAQ
@@ -189,3 +226,7 @@ It's probably not up to date, but here it is: [Dylan_Souvage_Resume.pdf](https:/
 **Want a different guide?**
 
 [CareerCup's resume guide](https://www.careercup.com/resume) is solid. [Careeers.org](https://www.careeers.org/resumes) has examples from people at top companies.
+
+**Want to skip straight to a tool?**
+
+[ResumeWorded](https://resumeworded.com/) gives automated line-by-line feedback. If you use Kiro, the `resumizer.md` skill in this repo does the same interactively.
