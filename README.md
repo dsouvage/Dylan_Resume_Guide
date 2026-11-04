@@ -4,8 +4,20 @@
 
 This guide was originally written before AI coding assistants existed — based on real recruiter conversations, interview outcomes, and a lot of time on `/r/cscareerquestions`. The advice hasn't changed (resume fundamentals don't), but it now includes a Resumizer skill that any AI tool can use. Drop the skill file in and your AI assistant follows the same rules this guide does.
 
+**The resume on the left below is what I had when I started at Brock University.** The one on the right is what it became after applying this guide — and it's what got me the Amazon offer. The emails above it are real.
+
 <p align="center">
-  <img alt="Before and after resume transformation" src="./transformation.png" width="500" />
+  <img alt="Interview and offer emails from Amazon, Microsoft, RBC, IBM, Goldman Sachs and others" src="./interview screenshot.png" width="500" />
+  <img alt="Resume transformation: Brock entry resume on the left, Amazon-offer resume on the right" src="./transformation.png" width="500" />
+</p>
+
+Later, a version of this resume — tailored for graduate admissions rather than internships — got me into Berkeley (MICS), USC, UIUC, and University of Washington.
+
+One difference for grad school: **you want a CV, not a one-page resume.** Two pages is fine. Admissions committees want the full picture — publications, research, coursework, certifications, everything. The one-page rule is for recruiters who spend 6 seconds on a resume; an admissions reader is looking for depth. Below is the CV that got into those programs.
+
+<p align="center">
+  <img alt="CV page 1" src="./cv_page1.png" width="600" />
+  <img alt="CV page 2" src="./cv_page2.png" width="600" />
 </p>
 
 ---
@@ -29,7 +41,7 @@ This guide was originally written before AI coding assistants existed — based 
 
 ## Why listen to this?
 
-I landed internships coming out of a small Ontario university most people haven't heard of. That led to interviews and offers at Amazon, Microsoft, RBC, OPG, OMERS, and IBM. I've spoken with recruiters directly, attended events like Passport to Google, had my resume torn apart and rebuilt multiple times, and spent an embarrassing number of hours on `/r/cscareerquestions` and `/r/csmajors` so you don't have to.
+I landed internships coming out of a small Ontario university most people haven't heard of. That led to interviews and offers at Amazon, Microsoft, Meta, Google, Databricks, RBC, OPG, OMERS, and IBM. I've spoken with recruiters directly, attended events like Passport to Google, had my resume torn apart and rebuilt multiple times, and spent an embarrassing number of hours on `/r/cscareerquestions` and `/r/csmajors` so you don't have to.
 
 The most important thing is to apply — a lot, early, and consistently. This guide helps you make sure each application has a real shot.
 
@@ -89,6 +101,7 @@ Rules:
 - Students and recent grads: **Education → Experience → Projects → Skills**
 - No internships yet: **Education → Projects → Skills → Experience**
 - One page if you have fewer than 10 years of experience; two pages only if the second page is genuinely full
+- **For grad school applications: use a CV, not a one-page resume.** Two pages is expected. Admissions committees want publications, research, coursework, certifications — the full picture. The one-page rule is for recruiters, not admissions readers.
 
 ### 2. Content and bullet points
 
