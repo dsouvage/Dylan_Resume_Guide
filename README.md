@@ -7,8 +7,8 @@ This guide was originally written before AI coding assistants existed — based 
 **The resume on the left below is what I had when I started at Brock University.** The one on the right is what it became after applying this guide — and it's what got me the Amazon offer. The emails above it are real.
 
 <p align="center">
-  <img alt="Interview and offer emails from Amazon, Microsoft, RBC, IBM, Goldman Sachs and others" src="./interview screenshot.png" width="500" />
-  <img alt="Resume transformation: Brock entry resume on the left, Amazon-offer resume on the right" src="./transformation.png" width="500" />
+  <img alt="Interview and offer emails from Amazon, Microsoft, RBC, IBM, Goldman Sachs and others" src="./images/interview screenshot.png" width="500" />
+  <img alt="Resume transformation: Brock entry resume on the left, Amazon-offer resume on the right" src="./images/transformation.png" width="500" />
 </p>
 
 Later, a version of this resume — tailored for graduate admissions rather than internships — got me into Berkeley (MICS), USC, UIUC, and University of Washington.
@@ -16,8 +16,8 @@ Later, a version of this resume — tailored for graduate admissions rather than
 One difference for grad school: **you want a CV, not a one-page resume.** Two pages is fine. Admissions committees want the full picture — publications, research, coursework, certifications, everything. The one-page rule is for recruiters who spend 6 seconds on a resume; an admissions reader is looking for depth. Below is the CV that got into those programs.
 
 <p align="center">
-  <img alt="CV page 1" src="./cv_page1.png" width="600" />
-  <img alt="CV page 2" src="./cv_page2.png" width="600" />
+  <img alt="CV page 1" src="./images/cv_page1.png" width="600" />
+  <img alt="CV page 2" src="./images/cv_page2.png" width="600" />
 </p>
 
 ---
@@ -49,16 +49,16 @@ The most important thing is to apply — a lot, early, and consistently. This gu
 
 ## Resumizer — AI skill
 
-The `resumizer.md` file in this repo teaches any AI assistant how to rewrite resume content correctly: strong action verbs, quantified results, ATS-safe formatting, no invented metrics. It's a plain markdown file with the rules baked in. Paste it into whatever tool you use and it will follow this guide's standards.
+The `skills/resumizer.md` file in this repo teaches any AI assistant how to rewrite resume content correctly: strong action verbs, quantified results, ATS-safe formatting, no invented metrics. It's a plain markdown file with the rules baked in. Paste it into whatever tool you use and it will follow this guide's standards.
 
 | Tool | How to use it |
 |------|---------------|
-| [Kiro](https://kiro.dev) | Copy `resumizer.md` to `~/.kiro/skills/` (user-level) or `.kiro/skills/` (workspace) |
+| [Kiro](https://kiro.dev) | Copy `skills/resumizer.md` to `~/.kiro/skills/` (user-level) or `.kiro/skills/` (workspace) |
 | [Claude](https://claude.ai) / [Claude Code](https://claude.ai/code) | Paste the contents into your system prompt or Project Instructions |
 | [ChatGPT](https://chatgpt.com) | Add to a Custom GPT's instructions, or paste into a new conversation |
 | [Gemini](https://gemini.google.com) | Paste into a Gem's instructions or at the start of a conversation |
 | [Cursor](https://cursor.sh) / [Copilot](https://github.com/features/copilot) | Add to your `.cursorrules` file or Copilot instructions |
-| Any other tool | Paste `resumizer.md` as a system prompt or context file |
+| Any other tool | Paste `skills/resumizer.md` as a system prompt or context file |
 
 What it does:
 
@@ -77,7 +77,7 @@ Strong: Redesigned customer onboarding flow, cutting time-to-activation from 14 
         to 3 and reducing support tickets by 40%.
 ```
 
-See `resumizer.md` for the full spec and all modes.
+See `skills/resumizer.md` for the full spec and all modes.
 
 ---
 
