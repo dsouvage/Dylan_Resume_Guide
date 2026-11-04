@@ -29,7 +29,7 @@ This guide was originally written before AI coding assistants existed — based 
 
 ## Why listen to this?
 
-I landed internships coming out of a small Ontario university most people haven't heard of. That led to interviews and offers at Amazon, Microsoft, RBC, OPG, OMERS, and IBM. I've spoken with recruiters directly, attended events like Passport to Google, had my resume torn apart and rebuilt multiple times, and spent an embarrassing number of hours on `/r/cscareerquestions` and `/r/csmajors` so you don't have to.
+I landed internships coming out of a small Ontario university most people haven't heard of. That led to interviews and offers at Amazon, Microsoft, Meta, Google, Databricks, RBC, OPG, OMERS, and IBM. I've spoken with recruiters directly, attended events like Passport to Google, had my resume torn apart and rebuilt multiple times, and spent an embarrassing number of hours on `/r/cscareerquestions` and `/r/csmajors` so you don't have to.
 
 The most important thing is to apply — a lot, early, and consistently. This guide helps you make sure each application has a real shot.
 
