@@ -4,10 +4,14 @@
 
 This guide was originally written before AI coding assistants existed — based on real recruiter conversations, interview outcomes, and a lot of time on `/r/cscareerquestions`. The advice hasn't changed (resume fundamentals don't), but it now includes a Resumizer skill that any AI tool can use. Drop the skill file in and your AI assistant follows the same rules this guide does.
 
+**The resume on the left below is what I had when I started at Brock University.** The one on the right is what it became after applying this guide — and it's what got me the Amazon offer. The emails above it are real.
+
 <p align="center">
-  <img alt="Interview offers" src="./interview screenshot.png" width="500" />
-  <img alt="Before and after resume transformation" src="./transformation.png" width="500" />
+  <img alt="Interview and offer emails from Amazon, Microsoft, RBC, IBM, Goldman Sachs and others" src="./interview screenshot.png" width="500" />
+  <img alt="Resume transformation: Brock entry resume on the left, Amazon-offer resume on the right" src="./transformation.png" width="500" />
 </p>
+
+Later, a version of this resume — tailored for graduate admissions rather than internships — got me into Berkeley (MICS), USC, UIUC, and University of Washington.
 
 ---
 
