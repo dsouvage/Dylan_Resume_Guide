@@ -247,12 +247,6 @@ I am not as qualified to speak on LinkedIn as I believe all my success came from
 
 ## FAQ
 
-**What does your resume look like?**
-
-Note: probably not up to date
-
-https://www.cosc.brocku.ca/~ds16bz/resume/Dylan_Souvage_Resume.pdf
-
 **Want a different guide?**
 
 [CareerCup's resume guide](https://www.careercup.com/resume) is solid. [Careeers.org](https://www.careeers.org/resumes) has examples from people at top companies.
