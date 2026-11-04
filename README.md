@@ -77,7 +77,7 @@ Keep it clean and standard. Recruiters go through thousands of applications — 
 
 **Recommended templates:**
 - [Jake's Resume (LaTeX)](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) — widely used, clean, ATS-safe
-- [Moharnab's template (Papeeria)](https://www.papeeria.com/p/585818a6275c2d41c9231ced2a8e8e14#/Moharnab_Resume_FT.tex)
+- [Moharnab's template (Overleaf)](https://www.overleaf.com/articles/moharnab-resume/jswvscyqsryt)
 - [Rezi.io](https://www.rezi.io/) — online builder with ATS optimization
 
 Rules:
