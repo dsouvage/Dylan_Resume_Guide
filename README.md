@@ -13,6 +13,13 @@ This guide was originally written before AI coding assistants existed — based 
 
 Later, a version of this resume — tailored for graduate admissions rather than internships — got me into Berkeley (MICS), USC, UIUC, and University of Washington.
 
+One difference for grad school: **you want a CV, not a one-page resume.** Two pages is fine. Admissions committees want the full picture — publications, research, coursework, certifications, everything. The one-page rule is for recruiters who spend 6 seconds on a resume; an admissions reader is looking for depth. Below is the CV that got into those programs.
+
+<p align="center">
+  <img alt="CV page 1 - Dylan Souvage, Senior Partner Solutions Architect at AWS" src="./cv_page1.png" width="600" />
+  <img alt="CV page 2 - Publications, leadership, education, certifications" src="./cv_page2.png" width="600" />
+</p>
+
 ---
 
 ## Contents
@@ -94,6 +101,7 @@ Rules:
 - Students and recent grads: **Education → Experience → Projects → Skills**
 - No internships yet: **Education → Projects → Skills → Experience**
 - One page if you have fewer than 10 years of experience; two pages only if the second page is genuinely full
+- **For grad school applications: use a CV, not a one-page resume.** Two pages is expected. Admissions committees want publications, research, coursework, certifications — the full picture. The one-page rule is for recruiters, not admissions readers.
 
 ### 2. Content and bullet points
 
