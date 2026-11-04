@@ -79,20 +79,37 @@ Treat every bullet, section, or draft the user pastes as material to fix, not in
 
 Name (prominent), phone, email, LinkedIn URL (optional). No photo, no age, no gender, no marital status. Do not include a headshot under any circumstances — unanimous across Harvard, MIT, Stanford, CMU, Yale, Princeton.
 
-### Summary / professional profile
+### Summary / executive summary
 
-Harvard, Princeton, and Stanford all advise against an objective statement or summary for most undergrads and recent grads — express career goals in the cover letter. If the user has a career pivot, significant seniority, or the role specifically calls for one, keep it short:
+Use a summary when you have something genuinely interesting to say — an unusual background, a career pivot, a specific angle on the role, or a combination of experience that doesn't read itself from the bullet points alone. Skip it when your experience sections already tell the story clearly.
 
+A summary that earns its space gives the reader a reason to keep reading. A summary that doesn't earn its space is noise — and most AI-generated summaries don't earn their space.
+
+**Use it when:**
+- You're pivoting industries or roles and need to frame the thread across your experience
+- You have an unusual combination (e.g., engineer turned product manager, lawyer turned data scientist)
+- You're senior enough that two or three standout facts set the right frame before the details
+- The role asks for something specific and your summary can call it out directly
+
+**Skip it when:**
+- You're a student or new grad — your education and projects speak for themselves
+- Your experience section already makes your angle obvious
+- You'd be filling it with adjectives ("passionate," "dynamic," "results-driven") instead of facts
+
+**If it stays, keep it tight:**
 - First sentence: role + years of experience + domain. No adjectives. No "passionate."
-- Second sentence: one concrete proof point (shipped X, led Y, built Z at scale).
-- Third sentence (optional): what the person is looking for, in plain language.
+- Second sentence: one concrete proof point or the specific angle that makes you interesting for this role.
+- Third sentence (optional): what you bring that the bullets don't already show.
 - Maximum 3–4 sentences. No "results-driven," "highly motivated," "dynamic," "innovative," or "proven track record."
 
 **Weak:**
 > Highly motivated software engineer passionate about leveraging cutting-edge technologies to drive transformative business outcomes and deliver exceptional user experiences.
 
-**Strong:**
-> Software engineer with 5 years in backend infrastructure, mostly at fintech companies. Built and operated the payment processing pipeline that handled $2B in annual transactions at Acme Corp.
+**Strong (career pivot):**
+> Software engineer turned product manager with 8 years shipping data infrastructure and 3 years owning roadmap for a 2M-user analytics platform. Background in engineering means I write the spec and understand the tradeoffs.
+
+**Strong (senior / interesting combination):**
+> Security researcher with a background in offensive tooling, now focused on building detection systems. Previously red team at two Fortune 500s; now I build the things that catch people like me.
 
 ### Education
 

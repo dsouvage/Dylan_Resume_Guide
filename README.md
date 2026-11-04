@@ -94,6 +94,19 @@ Keep it clean and standard. Recruiters process thousands of applications — a d
 
 ### 2. Content and bullet points
 
+**Executive summary (optional but recommended when you have something interesting to say)**
+
+Put a 2–4 sentence summary at the top when your background has a genuine angle worth calling out — a pivot, an unusual combination of skills, or seniority where two standout facts frame everything below. Skip it if you're a student, new grad, or your experience sections already tell the story on their own. Never fill it with adjectives. If you can't write it without "passionate," "dynamic," or "results-driven," cut it.
+
+```
+Strong: Security researcher with a background in offensive tooling, now focused on
+        detection systems. Previously red team at two Fortune 500s — now I build
+        the things that catch people like me.
+
+Weak:   Highly motivated professional passionate about leveraging cutting-edge
+        technologies to drive transformative business outcomes.
+```
+
 Every experience bullet should follow **PAR format** (Project → Action → Result) — the same structure that MIT, Stanford (CAR), and Yale (XYZ) all recommend. Lead with the verb, describe the work, end with a quantified result.
 
 **Structure:** `Action verb → what you did → quantified result`
