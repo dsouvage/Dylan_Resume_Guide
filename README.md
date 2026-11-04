@@ -5,6 +5,7 @@
 This guide was originally written before AI coding assistants existed — based on real recruiter conversations, interview outcomes, and a lot of time on `/r/cscareerquestions`. The advice hasn't changed (resume fundamentals don't), but it now includes a Resumizer skill that any AI tool can use. Drop the skill file in and your AI assistant follows the same rules this guide does.
 
 <p align="center">
+  <img alt="Interview offers" src="./interview screenshot.png" width="500" />
   <img alt="Before and after resume transformation" src="./transformation.png" width="500" />
 </p>
 
