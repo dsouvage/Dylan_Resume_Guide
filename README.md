@@ -49,16 +49,16 @@ The most important thing is to apply — a lot, early, and consistently. This gu
 
 ## Resumizer — AI skill
 
-The `resumizer.md` file in this repo teaches any AI assistant how to rewrite resume content correctly: strong action verbs, quantified results, ATS-safe formatting, no invented metrics. It's a plain markdown file with the rules baked in. Paste it into whatever tool you use and it will follow this guide's standards.
+The `skills/resumizer.md` file in this repo teaches any AI assistant how to rewrite resume content correctly: strong action verbs, quantified results, ATS-safe formatting, no invented metrics. It's a plain markdown file with the rules baked in. Paste it into whatever tool you use and it will follow this guide's standards.
 
 | Tool | How to use it |
 |------|---------------|
-| [Kiro](https://kiro.dev) | Copy `resumizer.md` to `~/.kiro/skills/` (user-level) or `.kiro/skills/` (workspace) |
+| [Kiro](https://kiro.dev) | Copy `skills/resumizer.md` to `~/.kiro/skills/` (user-level) or `.kiro/skills/` (workspace) |
 | [Claude](https://claude.ai) / [Claude Code](https://claude.ai/code) | Paste the contents into your system prompt or Project Instructions |
 | [ChatGPT](https://chatgpt.com) | Add to a Custom GPT's instructions, or paste into a new conversation |
 | [Gemini](https://gemini.google.com) | Paste into a Gem's instructions or at the start of a conversation |
 | [Cursor](https://cursor.sh) / [Copilot](https://github.com/features/copilot) | Add to your `.cursorrules` file or Copilot instructions |
-| Any other tool | Paste `resumizer.md` as a system prompt or context file |
+| Any other tool | Paste `skills/resumizer.md` as a system prompt or context file |
 
 What it does:
 
@@ -77,7 +77,7 @@ Strong: Redesigned customer onboarding flow, cutting time-to-activation from 14 
         to 3 and reducing support tickets by 40%.
 ```
 
-See `resumizer.md` for the full spec and all modes.
+See `skills/resumizer.md` for the full spec and all modes.
 
 ---
 
